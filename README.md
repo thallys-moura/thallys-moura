@@ -4,7 +4,6 @@
 [![N|Solid](https://www.python.org/static/community_logos/python-logo.png)](https://www.python.org/)
 
 [![Build Status](https://travis-ci.com/thallys-moura/thallys-moura.svg?branch=main)](https://travis-ci.com/thallys-moura/thallys-moura)
-## Olá!!!
 #### Seja bem vindo
 
 > Este reposítorio foi criado afim de apresentar uma evolução na escrita 
